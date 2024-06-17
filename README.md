@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **miao.hnlk@gmail.com**
 
-- ⚡ Fun fact **Love Matcha, Tiramisu, Dogs**
+- ⚡ Fun fact **Love Dogs**
 
 
 
