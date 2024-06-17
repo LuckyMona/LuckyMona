@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Mia</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on **Master of Computer Science in Georgia Institute of Technology and San Francisco Bay University**
+- 🔭 I’m currently working on **Master of Computer Science** in **Georgia Institute of Technology** and **San Francisco Bay University**
 
 - 👯 I’m looking to collaborate on **Frontend and Full Stack position**
 
@@ -28,9 +28,13 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **Love Matcha, Tiramisu, Dogs**
 
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mia-t-37060a6a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mia-t-37060a6a" height="30" width="40" /></a>
+<a href="https://www.leetcode.cn/miao-h666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="supermaryy" height="30" width="40" />leetcode.cn</a>
+<a href="https://www.leetcode.com/supermaryy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="supermaryy" height="30" width="40" />leetcode.com</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
