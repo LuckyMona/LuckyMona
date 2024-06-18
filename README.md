@@ -22,9 +22,13 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **Frontend and Full Stack position**
 
+- 📝 I regularly write articles on [https://luckymona.github.io](https://luckymona.github.io)
+
 - 💬 Ask me about **React, Vue.js, Typescript, Javascript, Node.js, Python,Java**
 
 - 📫 How to reach me **miao.hnlk@gmail.com**
+
+- 📄 Know about my experiences [https://luckymona.github.io/images/Mia_Tian_FE.pdf](https://luckymona.github.io/images/Mia_Tian_FE.pdf)
 
 - ⚡ Fun fact **Love Dogs**
 
