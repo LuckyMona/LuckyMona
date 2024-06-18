@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Master of CS** in **Gtech** and **SFBU**
 
-- 👨‍💻 I graduated from Sun Yat-Sen University and have worked at Shopee, TP-Link, and Ping An.
+- 👨‍💻 I graduated from **Sun Yat-Sen University** and have worked at **Shopee**, **TP-Link**, and **Ping An**.
 
 - 👯 I’m looking to collaborate on **Frontend and Full Stack position**
 
