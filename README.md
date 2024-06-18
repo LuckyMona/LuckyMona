@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Mia</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on **Master of Computer Science** in **Georgia Institute of Technology** and **San Francisco Bay University**
+- 🔭 I’m currently working on **Master of CS** in **Gtech** and **SFBU**
 
 - 👯 I’m looking to collaborate on **Frontend and Full Stack position**
 
